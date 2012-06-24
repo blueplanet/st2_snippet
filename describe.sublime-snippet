@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+<![CDATA[
+describe ${1:object name} do
+  describe "${2:method name}" do
+    ${0}
+  end
+end]]>
+	</content>
+	<tabTrigger>desc</tabTrigger>
+	<scope></scope>
+	<description>RSpec describe</description>
+</snippet>

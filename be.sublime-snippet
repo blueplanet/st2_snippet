@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+<![CDATA[
+before do
+  ${0}
+end]]>
+	</content>
+	<tabTrigger>be</tabTrigger>
+	<scope></scope>
+	<description>RSpec before</description>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content>
+<![CDATA[
+context "${1:context name}" do
+  before do
+    ${2:before}
+  end
+
+  it { ${0} }
+end]]>
+	</content>
+	<tabTrigger>co</tabTrigger>
+	<scope></scope>
+	<description>RSpec context</description>
+</snippet>

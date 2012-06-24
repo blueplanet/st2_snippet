@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+it { ${0} }]]>
+	</content>
+	<tabTrigger>it</tabTrigger>
+	<scope></scope>
+	<description>RSpec it</description>
+</snippet>

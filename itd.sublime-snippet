@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+<![CDATA[
+it "${1:desc}" do
+  ${0}
+end]]>
+	</content>
+	<tabTirgger>itd</tabTrigger>
+	<scope></scope>
+	<description>RSpec it do</description>
+</snippet>
