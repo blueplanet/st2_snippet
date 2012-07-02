@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[# encoding: utf-8
+]]>
+	</content>
+	<tabTrigger>u8</tabTrigger>
+	<scope></scope>
+	<description>Ruby utf-8</description>
+</snippet>
