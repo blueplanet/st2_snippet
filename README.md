@@ -1,4 +1,6 @@
 ## snippet for Sublime Text 2 ##
+### Ruby ###
+- utf-8 desc
 
 ### RSpec ###
 - describe
